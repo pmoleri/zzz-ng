@@ -1,6 +1,6 @@
 # untitled-app (54)
 
-This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
+edited!
 
 ## Development server
 
